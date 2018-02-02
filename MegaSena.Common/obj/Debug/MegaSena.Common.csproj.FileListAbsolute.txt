@@ -1,0 +1,5 @@
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Common\bin\Debug\MegaSena.Common.dll
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Common\bin\Debug\MegaSena.Common.pdb
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Common\obj\Debug\MegaSena.Common.csprojResolveAssemblyReference.cache
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Common\obj\Debug\MegaSena.Common.dll
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Common\obj\Debug\MegaSena.Common.pdb

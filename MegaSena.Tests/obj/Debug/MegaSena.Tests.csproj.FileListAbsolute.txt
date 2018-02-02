@@ -1,0 +1,7 @@
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Tests\bin\Debug\MegaSena.Tests.dll
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Tests\bin\Debug\MegaSena.Tests.pdb
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Tests\obj\Debug\MegaSena.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Tests\obj\Debug\MegaSena.Tests.dll
+C:\Users\Acaz\Desktop\MegaSena\MegaSena.Tests\obj\Debug\MegaSena.Tests.pdb
